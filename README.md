@@ -39,7 +39,7 @@ Je crée des applications web dynamiques et sécurisées, des sites web performa
 
 Voici quelques projets que j'ai réalisés ou auxquels j'ai contribué, qui démontrent mes compétences en développement sécurisé et JavaScript :
 
-### 🔑 **[Nom du Projet 1]**
+### 🔑 **[EscrowDecrypter]**
 - **Description** : Un projet pour decrypter des scripts encrypt avec FXAP.
 - **Technologies** : JavaScript
 - **Lien** : [Voir le projet](https://github.com/loeve1337/EscrowDecrypter)
