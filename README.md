@@ -1,76 +1,26 @@
-# 👨‍💻 Bienvenue sur mon GitHub ! 🚀
+## H€y Loeve?
 
-### Salut, je suis **Loeve** 👋
+## 💬Who Am I? !L0eve/GHH
+- 📄· Just a guy who tries to learn cibersecurity and some programming languages.
+- 📍· France
+- 📚· Autodidact
+- ⚔️· Trying to recover and protect our "privacy" from rats...
+- ⛓· Breaking/bypassing security systems like solving Rubik's cubes
 
-Développeur passionné et expérimenté dans les technologies suivantes :
-- **JavaScript**
-- **HTML & CSS**
-- **Secure Shell (SSH)**
+## :computer: Current Programing Languages Im Working In : 
+<p>
+	<div align="center">
+		<code><img width="5%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+		<code><img width="5%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&f=1&nofb=1"></code>
+		<code><img width="5%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
+		<br />
+		<code><img width="5%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FISO_C%252B%252B_Logo.svg%2F1200px-ISO_C%252B%252B_Logo.svg.png&f=1&nofb=1"></code>
+		<code><img width="6%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fmartz90%2Fhex%2F512%2Fhtml-5-icon.png&f=1&nofb=1"></code>
+		<code><img width="6%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shareicon.net%2Fdata%2F2016%2F06%2F18%2F603669_lua_512x512.png&f=1&nofb=1"></code>
+	</div>
+</p>
 
-Je crée des applications web dynamiques et sécurisées, des sites web performants et des solutions personnalisées avec un focus particulier sur la sécurité, l'optimisation des performances et l'interactivité des interfaces utilisateurs. Mon objectif est de fournir des solutions robustes, bien structurées et modernes.
-
----
-
-## 🔧 **Compétences Techniques**
-
-- **Languages** :
-  - 🖥️ **JavaScript** : Développement front-end dynamique avec des frameworks comme React, gestion des événements et des interactions utilisateurs.
-  - 🌐 **HTML & CSS** : Création de sites web responsives, design moderne et performant.
-  - 🔒 **Secure Shell (SSH)** : Gestion de serveurs, accès sécurisé, automatisation de tâches via SSH, configuration de serveurs sécurisés.
-
-- **Frameworks & Outils** :
-  - React, Vue.js (JavaScript)
-  - Bootstrap, Tailwind CSS (Front-end)
-  - Docker, Nginx, Apache
-  - Git, GitHub Actions (CI/CD)
-
-- **Bases de données** :
-  - MySQL, MariaDB, PostgreSQL
-  - Gestion des bases de données sécurisée et optimisée
-
-- **Sécurité** :
-  - 🔐 Sécurisation des serveurs et des applications
-  - 🔒 SSH Keys, gestion des utilisateurs et des permissions
-  - Mise en œuvre de bonnes pratiques de sécurité pour protéger les données et les serveurs
-
----
-
-## 💻 **Projets Récents**
-
-Voici quelques projets que j'ai réalisés ou auxquels j'ai contribué, qui démontrent mes compétences en développement sécurisé et JavaScript :
-
-### 🔑 **[EscrowDecrypter]**
-- **Description** : Un projet pour decrypter des scripts encrypt avec FXAP.
-- **Technologies** : JavaScript
-- **Lien** : [Voir le projet](https://github.com/loeve1337/EscrowDecrypter)
-
----
-
-## 🌱 **Actuellement en train d'apprendre...**
-- **Vue.js / React** : Pour améliorer mes compétences en développement front-end et rendre mes applications plus interactives.
-- **Cloud & DevOps** : Améliorer mes connaissances des outils de déploiement et de gestion des serveurs dans le cloud (AWS, Azure, Google Cloud).
-- **Sécurisation avancée des applications** : Techniques de cryptage, gestion des vulnérabilités et des erreurs de sécurité.
-
----
-
-## 📫 **Comment me contacter ?**
-- **Discord** : [loevessh](https://discord.gg/astralisrp)
-
----
-
-## 🚀 **Objectifs à venir**
-- Contribuer davantage à des projets open source.
-- Continuer à approfondir mes connaissances sur la sécurité des systèmes et des applications.
-- Participer à des événements et des conférences pour échanger avec d'autres passionnés de la technologie et de la sécurité.
-
----
-
-## 💡 **Quelques citations inspirantes**
-
-> "La sécurité est un état d’esprit, pas une technologie." - **Bruce Schneier**
-
-> "Le code est comme l’humour. Quand il faut l'expliquer, il est mauvais." - **Cory House**
-
----
-
-Merci d'avoir visité mon profil GitHub ! N'hésitez pas à me contacter ou à explorer mes projets. 😊
+## 👋 Reach out to me 
+- 💬 Ask me about anything.
+🔌 Session:
+05fd15a675702ba639d02cb524c5eec751eb7581bfc135c84964b6a9f2c2e34872
